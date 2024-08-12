@@ -5,3 +5,7 @@ hello
 sortargs61
 strstr61
 wc61
+
+.deps
+*.dSYM
+*.o

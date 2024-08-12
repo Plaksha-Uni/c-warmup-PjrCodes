@@ -1,6 +1,2 @@
-pset0/.deps
-pset0/exiter.dSYM
-pset0/hello.dSYM
 .vscode
-
-*.o
+.DS_Store
